@@ -1,6 +1,6 @@
 ### Hi, I'm Niels 👋
 
-Photographer who codes. In my free time I build
+I'm a photographer. In my free time I build
 **[ContactSheet](https://github.com/nielsfranke/contactsheet)** — a self-hosted,
 open-source photo delivery app for photographers. Free, no ads, your photos stay
 on your own server.
